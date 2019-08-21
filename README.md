@@ -11,7 +11,7 @@ This project requires **R** language and the following libraries installed:
 - [dplyr](http://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 - [GGally](http://www.rdocumentation.org/packages/GGally/versions/1.4.0)
 - [corrplot](http://www.scipy.org/)
-- [memisc](http://cran.r-project.org/web/packages/memisc/index.html)
+- [memisc](http://cran.r-project.org/web/packages/memisc/index.html).
 
 ### Code
 
